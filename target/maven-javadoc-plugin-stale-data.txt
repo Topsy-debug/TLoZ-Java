@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Programming/Java/FantasyGame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Programming/Java/FantasyGame/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FantasyGame 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Programming/Java/FantasyGame/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FantasyGame 1.0-SNAPSHOT API'
+Entidades
+main
+monster
+object
+tile
+D:\Programming\Java\FantasyGame\src\main\java = 1687140122553
+D:\Programming\Java\FantasyGame\target\apidocs\allclasses-frame.html = 1687468357580
+D:\Programming\Java\FantasyGame\target\apidocs\allclasses-noframe.html = 1687468357580
+D:\Programming\Java\FantasyGame\target\apidocs\constant-values.html = 1687468357464
+D:\Programming\Java\FantasyGame\target\apidocs\deprecated-list.html = 1687468357576
+D:\Programming\Java\FantasyGame\target\apidocs\help-doc.html = 1687468357584
+D:\Programming\Java\FantasyGame\target\apidocs\index-all.html = 1687468357572
+D:\Programming\Java\FantasyGame\target\apidocs\index.html = 1687468357580
+D:\Programming\Java\FantasyGame\target\apidocs\overview-frame.html = 1687468357412
+D:\Programming\Java\FantasyGame\target\apidocs\overview-summary.html = 1687468357584
+D:\Programming\Java\FantasyGame\target\apidocs\overview-tree.html = 1687468357552
+D:\Programming\Java\FantasyGame\target\apidocs\package-list = 1687468357408
+D:\Programming\Java\FantasyGame\target\apidocs\script.js = 1687468357588
+D:\Programming\Java\FantasyGame\target\apidocs\serialized-form.html = 1687468357472
+D:\Programming\Java\FantasyGame\target\apidocs\stylesheet.css = 1687468357588
